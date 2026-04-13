@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/16kp_5x2-k~fy.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"catalog","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"1756","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"p1dOCkkfTDFe3QGGBazCR"}
+:HL["/spaquatoria-web/_next/static/chunks/03f67l2nk_3p7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"catalog","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"1756","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"CIPFzvT7AL_ZLM2YzQu_k"}
